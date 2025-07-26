@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLFaLQyXdPkxH1rjSOoReWI0AQ8QwOaWlOFBg8ZtAXeNqdbTFdAbwPMoQ0bOMWNX0Bia4&usqp=CAU">
 
